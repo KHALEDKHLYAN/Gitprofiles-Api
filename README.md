@@ -31,7 +31,7 @@ You can access this endpoint by sending an HTTP GET request to the following URL
    
 How the code will apper in a webpage
 
-![image](https://user-images.githubusercontent.com/95699811/219865144-c4510152-5f7d-49b2-a0ec-9b5e76edbd77.png)
+![image](https://user-images.githubusercontent.com/95699811/219865273-32341363-8965-4be1-83c5-e422c50bf52d.png)
 
 
 
