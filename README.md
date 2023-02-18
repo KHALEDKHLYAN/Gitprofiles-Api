@@ -28,6 +28,11 @@ You can access this endpoint by sending an HTTP GET request to the following URL
 You can access this endpoint by sending an HTTP GET request to the following URL: 
 
     https://api.github.com/users/{username}/orgs.
+   
+How the code will apper in a webpage
+
+![image](https://user-images.githubusercontent.com/95699811/219865144-c4510152-5f7d-49b2-a0ec-9b5e76edbd77.png)
+
 
 
 
