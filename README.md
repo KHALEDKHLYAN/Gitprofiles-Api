@@ -7,6 +7,7 @@ Here are some of the main endpoints you can use to access GitHub profiles:
 1. User Info Endpoint: This endpoint returns basic information about a GitHub user, such as their username, name, email address, bio, and more.
   You can access this endpoint by sending an HTTP GET request to the following URL: 
   
+  
    https://api.github.com/users/{username}
   
 2. User Repos Endpoint: This endpoint returns a list of repositories owned by a GitHub user.
